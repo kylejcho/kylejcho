@@ -8,7 +8,7 @@ Currently looking to bring my skills to a front-end role.
 
 - 📑 My [Portfolio Site](https://kylejcho.github.io/portfolio/)
 
-- 📫 Get in touch with me (kylejcho@gmail.com)
+- 📫 Get in touch with me kylejcho@gmail.com
 
 - 🌱 I’m currently learning everything 🤣
 
