@@ -2,6 +2,7 @@
 
 I am a creative, detail-oriented, and passionate software engineer who is obssesed with turning ideas into reality. Whether it be planning or architecting the "big-picture", devising creative solutions, or focusing on the minute details, I am always excited to build off of an idea that is genuine.
 
+Currently looking to bring my skills to a front-end role. 
 
 - 🔭 Check out my latest project: [Checkr.](https://github.com/kylejcho/checkr-react)
 - 📑 My [Portfolio Site](https://kylejcho.github.io/portfolio/)
