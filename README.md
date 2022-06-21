@@ -4,7 +4,7 @@ I am a creative, detail-oriented, and passionate software engineer who is obsses
 
 
 - 🔭 Check out my latest project: [Checkr.](https://github.com/kylejcho/checkr-react)
-- 📑 My website: [My Portfolio Site](https://github.com/kylejcho/checkr-react)
+- 📑 My [Portfolio Site](https://github.com/kylejcho/checkr-react)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn Next.js, SASS
 - ⚡ Fun fact: I play the guitar (when I'm not coding)
