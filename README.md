@@ -4,10 +4,10 @@ I am a creative, detail-oriented, and passionate software engineer who is obsses
 
 Currently looking to bring my skills to a front-end role. 
 
-- 🔭 Check out my latest project: [Checkr.](https://github.com/kylejcho/checkr-react)
+- 🔭 Check out my latest project: ✔️[Checkr.](https://github.com/kylejcho/checkr-react)
 - 📑 My [Portfolio Site](https://kylejcho.github.io/portfolio/)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn Next.js, SASS
-- ⚡ Fun fact: I play the guitar (when I'm not coding)
+- 🎯 2022 Goals: Learn Next.js, SASS  
+- ⚡ Fun fact: I play the guitar 🎸 (when I'm not coding) 
 
 Get in touch with me and let me hear what ideas you have!
