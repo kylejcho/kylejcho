@@ -10,8 +10,6 @@ Currently looking to bring my skills to a front-end role.
 
 - 📫 Get in touch with me kylejcho@gmail.com
 
-- 🌱 I’m currently learning everything 🤣
-
 - 🎯 2022 Goals: Learn Next.js, SASS  
 
 - ⚡ Fun fact: I play the guitar 🎸 (when I'm not coding) 
