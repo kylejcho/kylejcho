@@ -1,4 +1,4 @@
-### Hi there, I'm Kyle 👋
+### Hi, I'm Kyle 👋
 
 #### I am a creative, detail-oriented, and passionate software engineer who is obssesed with turning impossible ideas into reality. <br> Get in touch with me and let me hear what ideas you have!
 
